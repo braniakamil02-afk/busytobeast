@@ -9,7 +9,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: left
+          textAlign: center
           fontWeight: 400
     subtitle: Section with a video subtitle
     text: |-
