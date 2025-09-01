@@ -65,7 +65,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Umów się na trening personalny",
+            "label": "signup",
             "altText": "Sign up",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
