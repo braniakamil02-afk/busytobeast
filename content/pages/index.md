@@ -599,7 +599,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Zobacz czego możesz oczekiwać od współpracy ze mną
     items:
       - title: Feature Item One
         tagline: This is the tagline
