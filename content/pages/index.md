@@ -139,6 +139,15 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: '/https://forms.gle/es5PoKhi3F7bkS6n8'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
       - label: Get started
         altText: ''
         url: /
