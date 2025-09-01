@@ -150,7 +150,7 @@ sections:
         elementId: ''
       - label: Wybieram treningi w studiu
         altText: ''
-        url: /
+        url: '/https://www.tsnm.pl/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
