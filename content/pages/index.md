@@ -148,7 +148,7 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - label: Get started
+      - label: Wybieram treningi w studiu
         altText: ''
         url: /
         showIcon: false
