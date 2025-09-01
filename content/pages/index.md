@@ -140,7 +140,7 @@ sections:
         type: FeaturedItem
     actions:
       - type: Button
-        label: Get started
+        label: Wybieram prowadzenie on-line
         altText: ''
         url: '/https://forms.gle/es5PoKhi3F7bkS6n8'
         showIcon: false
