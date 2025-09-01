@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-          fontWeight: 700
+          fontWeight: 400
     subtitle: Section with a video subtitle
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
