@@ -149,7 +149,7 @@ sections:
         style: secondary
         elementId: ''
       - label: Wybieram treningi w studiu
-        altText: ''
+        altText: ddddd
         url: /
         showIcon: false
         icon: arrowRight
