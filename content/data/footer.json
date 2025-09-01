@@ -67,7 +67,7 @@
             "type": "Social"
         },
         {
-            "altText": "LinkedIn link",
+            "altText": "",
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
             "type": "Social"
