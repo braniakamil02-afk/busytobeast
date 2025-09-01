@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ZOSTAŃ MASZYNĄ
+      text: FFFFFFFFFFFFFFF
       color: text-dark
       styles:
         self:
